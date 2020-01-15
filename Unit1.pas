@@ -29,7 +29,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  Label1.Text := 'Hello World!'
+  Label1.Text := 'Hello World! New branch';
 end;
 
 procedure TForm1.Button2Click(Sender: TObject);
